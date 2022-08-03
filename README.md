@@ -1,4 +1,4 @@
-# Real-Time-Face-Detection-Recognition
+# Real Time Face Detection And Recognition
 
 To create a complete project on Face Recognition, we must work on 3 very distinct phases: 
 
